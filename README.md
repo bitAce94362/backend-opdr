@@ -1,8 +1,8 @@
 # backend-opdrachten van Marco Wind I6AO2
 
-<b>hoi</b>
 
-Opdracht 1:
+
+<b>Opdracht 1:</b>
 
 In opdracht 1 ben ik bezig geweest samen met stefan om een instructie te maken hoe je regelnummering aanzet, hoe je de standaard opslag plaats veranderd, bij twee plaatjes de soort script taal bijgezet en het verschil beschreven tussen ASP.net en PHP
 
