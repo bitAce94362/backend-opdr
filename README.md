@@ -18,3 +18,6 @@ In opdracht 3 ben ik bezig geweest met een nieuwe website door via op een kalend
 
 In opdracht 4 ben ik verder gegaan in de website van opdracht 3 en heb ik onder het gedeelte van opdracht 3 een div gemaakt en daar in een countdown no pasen via een rekenmethode
 
+<b>Opdracht 5:</b>
+
+in opdracht 5 zijn we bezig geweest met een rekenmachine uit het normale boekje waar we validators op moesten toepassen 
