@@ -20,4 +20,8 @@ In opdracht 4 ben ik verder gegaan in de website van opdracht 3 en heb ik onder 
 
 <b>Opdracht 5:</b>
 
-in opdracht 5 zijn we bezig geweest met een rekenmachine uit het normale boekje waar we validators op moesten toepassen 
+in opdracht 5 ben ik bezig geweest met een rekenmachine uit het normale boekje waar we validators op moesten toepassen 
+
+<b>Opdracht6:</b>
+
+In opdracht 6 ben ik bezig geweest met een nieuwe rekenmachine, die rekenmachine die werkt doormiddel van buttons en kan plus, min, alle getallen weghalen en 1 getal terug.
