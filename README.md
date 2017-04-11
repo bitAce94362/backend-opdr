@@ -25,3 +25,8 @@ in opdracht 5 ben ik bezig geweest met een rekenmachine uit het normale boekje w
 <b>Opdracht6:</b>
 
 In opdracht 6 ben ik bezig geweest met een nieuwe rekenmachine, die rekenmachine die werkt doormiddel van buttons en kan plus, min, alle getallen weghalen en 1 getal terug.
+
+<b>Opdracht 7:</b>
+
+In Opdracht 7 moesten we eerst een UML maken voordat we bezig konden met de opdracht. In de UML staat duidelijk uitgelegd hoe alles moet werken.
+
