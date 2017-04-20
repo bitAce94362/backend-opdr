@@ -30,3 +30,5 @@ In opdracht 6 ben ik bezig geweest met een nieuwe rekenmachine, die rekenmachine
 
 In Opdracht 7 moesten we eerst een UML maken voordat we bezig konden met de opdracht. In de UML staat duidelijk uitgelegd hoe alles moet werken.
 
+Hierna begonnen we met het maken van de opdracht en hebben wij de rekentoets gemaakt die alle antwoorden nakijkt en die je een cijfer geeft.
+
