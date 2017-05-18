@@ -32,3 +32,6 @@ In Opdracht 7 moesten we eerst een UML maken voordat we bezig konden met de opdr
 
 Hierna begonnen we met het maken van de opdracht en hebben wij de rekentoets gemaakt die alle antwoorden nakijkt en die je een cijfer geeft.
 
+<b>Opdracht8:</b>
+
+In opdracht 8 ben ik bezig geweest met een website te maken die gebruik maakt van een masterpage, ook heb ik deze site gekoppeld aan een database waardoor op je 1 van de pagina's die gegevens op kan vragen
